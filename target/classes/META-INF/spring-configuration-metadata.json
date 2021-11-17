@@ -1,0 +1,17 @@
+{
+  "groups": [
+    {
+      "name": "saludo.mensaje",
+      "type": "starter.SaludoProperties",
+      "sourceType": "starter.SaludoProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "saludo.mensaje.idioma",
+      "type": "java.lang.String",
+      "sourceType": "starter.SaludoProperties"
+    }
+  ],
+  "hints": []
+}
